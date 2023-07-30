@@ -1,0 +1,26 @@
+h2 {
+  border-radius: 30px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+h3 {
+  text-align: right;
+  display: block;
+}
+/* hr {
+  display: inline;
+} */
+
+a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.heading {
+  margin-top: -4%;
+}
+.container {
+  display: block;
+  margin: 3% 25% 1% 25%;
+  max-width: 50%;
+}
